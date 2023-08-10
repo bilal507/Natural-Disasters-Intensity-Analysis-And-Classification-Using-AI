@@ -1,0 +1,2 @@
+# Natural-Disasters-Intensity-Analysis-And-Classification-Using-AI
+we developed a multilayered deep convolutional neural network model that classifies the natural disaster and tells the intensity of disaster  of natural The model uses an integrated webcam to capture the video frame and the video frame is compared with the Pre-trained model and the type of disaster is identified and showcased on the OpenCV window. 
